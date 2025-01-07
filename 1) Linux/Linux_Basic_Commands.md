@@ -7,7 +7,7 @@ ls -al – formatted listing with hidden files
 
 cd dir - change directory to dir
 
-cd – change to home
+cd  – change to home
 
 pwd – show current directory
 
